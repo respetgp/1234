@@ -1,0 +1,21 @@
+# Given a list of N arbitrary numbers.
+Write a function that finds the 3 largest unique numbers and returns them in descending order.
+
+The solution should be in the form of two functions.
+1. The first generates a list of N elements
+2. The second finds 3 numbers from the problem above
+
+Solution to check through assert tests
+incoming list 1,2,4,4,5,5,6,7,3,7
+Conclusion: 7, 6, 5
+
+# Дан список из N произвольных чисел.
+Напишите функцию которая находит 3 максимальных уникальных числа и возвращает их в порядке убывания.
+
+Решение должно быть оформлено в виде двух функций.
+1. Первая генериует список из N элементов
+2. Вторая находит 3 числа из задачи выше
+
+Решение проверить через assert тесты
+входящий список 1,2,4,4,5,5,6,7,3,7
+Вывод: 7, 6, 5
